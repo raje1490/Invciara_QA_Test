@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[C:\Users\Moni\eclipse-workspace\Invciara/Screenshots]]>
+    </line>
+    <line>
+      <![CDATA[C:\Users\Moni\eclipse-workspace\Invciara/Screenshots]]>
+    </line>
+    <line>
+      <![CDATA[C:\Users\Moni\eclipse-workspace\Invciara/Screenshots]]>
+    </line>
+    <line>
+      <![CDATA[C:\Users\Moni\eclipse-workspace\Invciara/Screenshots]]>
+    </line>
+  </reporter-output>
+  <suite name="InvciaraSuite" duration-ms="90326" started-at="2021-06-14T11:00:41 IST" finished-at="2021-06-14T11:02:11 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="90326" started-at="2021-06-14T11:00:41 IST" finished-at="2021-06-14T11:02:11 IST">
+      <class name="Invciara.WebAppTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Invciara.WebAppTest@51e2adc7]" name="setup" is-config="true" duration-ms="2225" started-at="2021-06-14T11:00:41 IST" finished-at="2021-06-14T11:00:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Scenario1()[pri:0, instance:Invciara.WebAppTest@51e2adc7]" name="Scenario1" duration-ms="87359" started-at="2021-06-14T11:00:43 IST" finished-at="2021-06-14T11:02:11 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[C:\Users\Moni\eclipse-workspace\Invciara/Screenshots]]>
+            </line>
+            <line>
+              <![CDATA[C:\Users\Moni\eclipse-workspace\Invciara/Screenshots]]>
+            </line>
+            <line>
+              <![CDATA[C:\Users\Moni\eclipse-workspace\Invciara/Screenshots]]>
+            </line>
+            <line>
+              <![CDATA[C:\Users\Moni\eclipse-workspace\Invciara/Screenshots]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Scenario1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Invciara.WebAppTest@51e2adc7]" name="teardown" is-config="true" duration-ms="690" started-at="2021-06-14T11:02:11 IST" finished-at="2021-06-14T11:02:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Invciara.WebAppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- InvciaraSuite -->
+</testng-results>
